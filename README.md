@@ -6,3 +6,5 @@ Built an interactive sales dashboard in Power BI using the Superstore dataset. C
 
 ## Dashboard image
 -<a href="https://github.com/Shubhamsinghn/Data-Analysis-Power-Bi-Dashboard/blob/main/Sales-BI%20Dashboard.png">Dashboard image</a>
+<img width="765" height="428" alt="Sales-BI Dashboard" src="https://github.com/user-attachments/assets/2c02b74f-0d1c-4fd7-8a81-36281cd994ad" />
+
